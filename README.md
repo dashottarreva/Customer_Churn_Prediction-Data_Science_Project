@@ -1,5 +1,6 @@
 # Customer_Churn_Prediction-Data_Science_Project
-The task was to predict the propensity to churn for each customer.
+##The task was to predict the propensity to churn for each customer
+
 <img width="1425" alt="Screenshot 2020-07-10 at 2 06 46 PM" src="https://user-images.githubusercontent.com/41194906/87219230-13dd0d80-c377-11ea-88e0-6f0da29bdf4e.png">
 <img width="1425" alt="Screenshot 2020-07-10 at 2 06 57 PM" src="https://user-images.githubusercontent.com/41194906/87219233-19d2ee80-c377-11ea-842b-8f88a280dd4c.png">
 <img width="1425" alt="Screenshot 2020-07-10 at 2 07 26 PM" src="https://user-images.githubusercontent.com/41194906/87219234-1b041b80-c377-11ea-891a-2dda34bb4313.png">
